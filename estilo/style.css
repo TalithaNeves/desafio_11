@@ -62,6 +62,17 @@ section {
     
 }
 
+section >p {
+    padding-bottom: 2em;
+}
+
+section#img01{
+    background-image: url('..imagem');
+}
+section#img02 {
+
+}
+
 section.normal {
     background-color: white;
     color: black;
